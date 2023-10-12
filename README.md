@@ -14,5 +14,6 @@ Overall statistics
 |---|---|---|---|---|---|
 |1|1|0|1|0|2|
 
-Contest	High risk	Medium risk	Security report	Leaderboard	Payout
+| Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
+|---|---|---|---|---|---|
 
