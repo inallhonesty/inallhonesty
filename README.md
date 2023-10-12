@@ -1,16 +1,15 @@
-### Hi there 👋
+# About InAllHonesty
 
-<!--
-**inallhonesty/inallhonesty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! My name is InAllHonesty, and I am an independent blockchain security researcher.
 
-Here are some ideas to get you started:
+I am always looking for new audit/judging opportunities in private or public settings. I am actively engaged in audit contests on all the mainstream platforms doing everything I can to make web3 a safer place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out via:
+Discord: inallhonesty_
+Twitter: @0xInAllHonesty
+
+Overall statistics
+No. Issues found	High	Unique High	Medium	Unique Medium	Total projects
+
+Contest	High risk	Medium risk	Security report	Leaderboard	Payout
+
