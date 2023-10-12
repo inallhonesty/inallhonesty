@@ -6,10 +6,12 @@ I am always looking for new audit/judging opportunities in private or public set
 
 Feel free to reach out via:  
 Discord: inallhonesty_  
-Twitter: @0xInAllHonesty
+Twitter: [@0xInAllHonesty](https://twitter.com/0xInAllHonesty)
 
 Overall statistics
-No. Issues found	High	Unique High	Medium	Unique Medium	Total projects
+----------------------------------------------------------------------------------
+|No. Issues found	|High	|Unique High	| Medium	| Unique Medium | Total projects |
+----------------------------------------------------------------------------------
 
 Contest	High risk	Medium risk	Security report	Leaderboard	Payout
 
