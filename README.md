@@ -9,9 +9,10 @@ Discord: inallhonesty_
 Twitter: [@0xInAllHonesty](https://twitter.com/0xInAllHonesty)
 
 Overall statistics
-----------------------------------------------------------------------------------
+
 |No. Issues found	|High	|Unique High	| Medium	| Unique Medium | Total projects |
 ----------------------------------------------------------------------------------
+|1|1|0|1|0|2|
 
 Contest	High risk	Medium risk	Security report	Leaderboard	Payout
 
