@@ -1,4 +1,4 @@
-# About InAllHonesty
+# About me
 
 Hey there! My name is InAllHonesty, and I am an independent blockchain security researcher.
 
