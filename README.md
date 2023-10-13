@@ -40,7 +40,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 # Secureum RACE results
 
 | RACE | Leaderboard | Score |
-|---|---|---|
+|:---:|---|---|
 | RACE-20 | 52 out of 202 | 3.7/8 |
 | RACE-21 | 24 out of 208 | 4.4/8 |
 | RACE-22 | 15 out of 175 | 5.0/8 |
