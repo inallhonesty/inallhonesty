@@ -1,4 +1,4 @@
-# About me
+# <span style="color:white">About me</span>
 
 Hey there! My name is InAllHonesty, and I am an independent blockchain security researcher.
 
@@ -9,7 +9,7 @@ Discord: inallhonesty_
 Twitter: [@0xInAllHonesty](https://twitter.com/0xInAllHonesty)  
 Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
-# Overall statistics
+# <span style="color:white">Overall statistics</span>
 
 | Total issues found	| High	| Unique High	| Medium	| Unique Medium | Total audit projects | Total judging projects |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
