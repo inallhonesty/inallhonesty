@@ -32,7 +32,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 # <img width="174" alt="code4rena" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/d90c4afc-5777-4efe-9971-035ff978c6cb">
 
 | Contest |	High |	Medium |  Others | Security report	| Leaderboard	| Payout |
-|---|---|---|---|---|---|---|
+|:---|:---:|:---:|:---:|:---:|:---:|---:|
 | Verwa | 0 | 0 | Grade A QA Report | Link | N/A | 9.82 USDC |
 
 # <img width="174" alt="CodeHawks" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/b7c41029-61e7-4320-8fc7-54bb73199cf6">
