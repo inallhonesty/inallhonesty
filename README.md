@@ -13,7 +13,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 | Total issues found	| High	| Unique High	| Medium	| Unique Medium | Total audit projects | Total judging projects |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|27|5|0|3|0|4|3|
+|27|5|0|3|0|5|3|
 
 # Sherlock ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
 
