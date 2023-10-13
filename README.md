@@ -16,6 +16,12 @@ Twitter: [@0xInAllHonesty](https://twitter.com/0xInAllHonesty)
 
 # Sherlock ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
 
+## Audit
+
+| Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
+|---|---|---|---|---|---|
+
+## Judging
 | Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|
 
