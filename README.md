@@ -14,7 +14,7 @@ Overall statistics
 |---|---|---|---|---|---|
 |1|1|0|1|0|2|
 
-Sherlock![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/271b62eb-c53b-4ba7-b57b-6a3776f4a3cb)
+Sherlock![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
 
 | Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|
