@@ -23,8 +23,11 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 |---|---|---|---|---|---|
 
 ## Judging
-| Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
+| Contest	| Leaderboard	| Payout |
 |---|---|---|---|---|---|
+| Symmetrical Update | a | 159.47 USDC |
+| Beam | a | 2.96 USDC |
+| Dinari | a | 38.02 USDC |
 
 # <img width="174" alt="code4rena" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/d90c4afc-5777-4efe-9971-035ff978c6cb">
 
