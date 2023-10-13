@@ -24,7 +24,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 ## Judging
 | Contest	| Leaderboard	| Payout |
-|---|---|---|---|---|---|
+|---|---|---|
 | Symmetrical Update | a | 159.47 USDC |
 | Beam | a | 2.96 USDC |
 | Dinari | a | 38.02 USDC |
