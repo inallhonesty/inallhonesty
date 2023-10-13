@@ -34,7 +34,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|
 
-# ![8mTCVtFvO9WsVB5t](https://github.com/inallhonesty/inallhonesty/assets/95440897/b7c41029-61e7-4320-8fc7-54bb73199cf6)
+# <img width="174" alt="CodeHawks" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/b7c41029-61e7-4320-8fc7-54bb73199cf6">
 
 | Contest |	High |	Medium | Others | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|---|
