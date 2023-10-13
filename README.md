@@ -38,7 +38,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 | Contest |	High |	Medium | Others | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|---|
-| Beedle | 3 | 1 | 2 Low & 11 Gas | Link | 
+| Beedle | 5 | 1 | 2 Low & 11 Gas | Link | 41/276 | 93.38 USDC |
 
 
 # Secureum RACE results
