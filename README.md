@@ -15,7 +15,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |27|5|0|3|0|5|3|
 
-# Sherlock ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
+# <span style="color:white">Sherlock</span> ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
 
 ## Audit
 
