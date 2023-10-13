@@ -14,7 +14,7 @@ Twitter: [@0xInAllHonesty](https://twitter.com/0xInAllHonesty)
 |---|---|---|---|---|---|
 |1|1|0|1|0|2|
 
-# Sherlock![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
+# Sherlock ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
 
 | Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@ Twitter: [@0xInAllHonesty](https://twitter.com/0xInAllHonesty)
 | Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|
 
-Codehawks
+# Codehawks
 
 | Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|
