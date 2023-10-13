@@ -19,7 +19,7 @@ Sherlock![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897
 | Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|
 
-![code4rena](https://github.com/inallhonesty/inallhonesty/assets/95440897/1e0b27b0-5583-4bcd-af00-d235a49ec726)
+<img width="174" alt="code4rena" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/d90c4afc-5777-4efe-9971-035ff978c6cb">
 
 | Contest |	High |	Medium | Security report	| Leaderboard	| Payout |
 |---|---|---|---|---|---|
