@@ -7,6 +7,7 @@ I am always looking for new audit/judging opportunities in private or public set
 Feel free to reach out via:  
 Discord: inallhonesty_  
 Twitter: [@0xInAllHonesty](https://twitter.com/0xInAllHonesty)
+Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 # Overall statistics
 
