@@ -13,7 +13,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 | Total issues found	| High	| Unique High	| Medium	| Unique Medium | Total audit projects | Total judging projects |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|27|5|0|3|0|5|3|
+|29|6|0|5|0|6|3|
 
 # <span style="color:white">Sherlock</span> ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
 
@@ -33,13 +33,14 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 | Contest |	High |	Medium |  Others | Security report	| Leaderboard	| Payout |
 |:---|:---:|:---:|:---:|:---:|:---:|---:|
+| WildCat | 1 | 1 | Grade B QA Report & Grade B Analysis | Link | 13/125 | 538.68 USDC |
 | Verwa | 0 | 0 | Grade A QA Report | Link | N/A | 9.82 USDC |
 
 # <img width="174" alt="CodeHawks" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/b7c41029-61e7-4320-8fc7-54bb73199cf6">
 
 | Contest |	High |	Medium | Others | Security report	| Leaderboard	| Payout |
 |:---|:---:|:---:|:---:|:---:|:---:|---:|
-| Ditto | | | | | | Judging Period |
+| Ditto | 0 | 0 | 2 Low | Link | 54/80 | 39.02 USDC |
 | Sparkn | 0 | 2 | 3 Low | Link | 31/202 | 76.96 USDC |
 | Beedle | 5 | 1 | 2 Low & 11 Gas | Link | 41/276 | 93.38 USDC |
 | Escrow | 0 | 0 | 1 Low & 2 Gas | Link | 137/216 | 23.09 USDC |
