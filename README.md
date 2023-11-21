@@ -45,6 +45,10 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Beedle | 5 | 1 | 2 Low & 11 Gas | Link | 41/276 | 93.38 USDC |
 | Escrow | 0 | 0 | 1 Low & 2 Gas | Link | 137/216 | 23.09 USDC |
 
+## <span style="color:white">Judging</span> 
+| Contest	| Leaderboard	| Payout |
+|:---|:---:|---:|
+| First Flight #1: PasswordStore | Solo Judge | Pro bono |
 
 # <span style="color:white">Secureum RACE results</span>
 
