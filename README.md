@@ -25,6 +25,8 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 ## <span style="color:white">Judging</span> 
 | Contest	| Leaderboard	| Payout |
 |:---|:---:|---:|
+| SYMM IO | 9/83 | 23.43 USDC |
+| LooksRare | 11/65 | 45.50 USDC |
 | Symmetrical Update | 3/35 | 159.47 USDC |
 | Beam | 19/117 | 2.96 USDC |
 | Dinari | 8/61 | 38.02 USDC |
@@ -51,6 +53,10 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Contest	| Leaderboard	| Payout |
 |:---|:---:|---:|
 | First Flight #1: PasswordStore | Solo Judge | Pro bono |
+| First Flight #5: Santa's List | Solo Judge | Pro bono |
+| First Flight #7: Horse Store | Solo Judge | Pro bono |
+| First Flight #8: Math Master  | Solo Judge | Pro bono |
+| MorpheusAI  | Solo Judge | Confidential |
 
 # <span style="color:white">Secureum RACE results</span>
 
