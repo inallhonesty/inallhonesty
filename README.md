@@ -58,7 +58,9 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | First Flight #7: Horse Store | Solo Judge | Pro bono |
 | First Flight #8: Math Master  | Solo Judge | Pro bono |
 | MorpheusAI  | Solo Judge | Confidential |
+| First Flight #9: Soulmate  | Community Judging Beta Tester  | Pro bono |
 
+First Flight #9: Soulmate
 # <span style="color:white">Secureum RACE results</span>
 
 | RACE | Leaderboard | Score |
