@@ -11,9 +11,9 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 # <span style="color:white">Overall statistics</span>
 
-| Total issues found	| High	| Unique High	| Medium	| Unique Medium | Total audit projects | Total judging projects |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|30|7|0|6|1|10|22|
+| High	| Unique High	| Medium	| Unique Medium | Total audit projects | Total judging projects |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|7|0|6|1|10|22|
 
 # Private Audits
 | Client | Period | Report|
