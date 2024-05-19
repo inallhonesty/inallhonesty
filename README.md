@@ -13,7 +13,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 | Total issues found	| High	| Unique High	| Medium	| Unique Medium | Total audit projects | Total judging projects |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|30|7|0|5|0|7|10|
+|30|7|0|6|1|10|22|
 
 # <span style="color:white">Sherlock</span> ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
 
@@ -25,11 +25,18 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 ## <span style="color:white">Judging</span> 
 | Contest	| Leaderboard	| Payout |
 |:---|:---:|---:|
-| SYMM IO | 9/83 | 23.43 USDC |
-| LooksRare | 11/65 | 45.50 USDC |
-| Symmetrical Update | 3/35 | 159.47 USDC |
-| Beam | 19/117 | 2.96 USDC |
 | Dinari | 8/61 | 38.02 USDC |
+| Beam | 19/117 | 2.96 USDC |
+| Symmetrical Update | 3/35 | 159.47 USDC |
+| LooksRare | 11/65 | 45.50 USDC |
+| SYMM IO | 9/83 | 23.43 USDC |
+| Avail | 16/56 | 10.29 USDC |
+| Mento | 11/37 | 30.01 USDC |
+| Flat Money Fix Review | 8/33 | 11.88 USDC |
+
+
+
+
 
 # <img width="174" alt="code4rena" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/d90c4afc-5777-4efe-9971-035ff978c6cb">
 
@@ -38,6 +45,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Curves | 1 | 0 | N/A | N/A | 215/284 | 0.58 USDC :smiley: |
 | WildCat | 1 | 1 | Grade B QA Report & Grade B Analysis | Link | 13/125 | 538.68 USDC |
 | Verwa | 0 | 0 | Grade A QA Report | Link | N/A | 9.82 USDC |
+| Revert Lend | 0 | 0 | Grade A Gas Report | Link | N/A | 269.18 USDC |
 
 # <img width="174" alt="CodeHawks" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/b7c41029-61e7-4320-8fc7-54bb73199cf6">
 
