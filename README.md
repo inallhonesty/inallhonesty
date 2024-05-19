@@ -65,7 +65,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Sparkn | 0 | 2 | 3 Low | Link | 31 | 76.96 USDC |
 | Ditto | 0 | 0 | 2 Low | Link | 54 | 39.02 USDC |
 | Beanstalk Part 1 | 0 | 1 | - | Link | 🥉 | 18,274.25 USDC |
-| Beanstalk Part 2 | 0 | 0 | 1 low | Link | 10th | 102.97 USDC |
+| Beanstalk Part 2 | 0 | 0 | 1 low | Link | 10 | 102.97 USDC |
 
 
 ## <span style="color:white">Judging</span> 
