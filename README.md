@@ -45,10 +45,13 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 | Contest |	High |	Medium | Others | Security report	| Leaderboard	| Payout |
 |:---|:---:|:---:|:---:|:---:|:---:|---:|
-| Ditto | 0 | 0 | 2 Low | Link | 54/80 | 39.02 USDC |
-| Sparkn | 0 | 2 | 3 Low | Link | 31/202 | 76.96 USDC |
-| Beedle | 5 | 1 | 2 Low & 11 Gas | Link | 41/276 | 93.38 USDC |
-| Escrow | 0 | 0 | 1 Low & 2 Gas | Link | 137/216 | 23.09 USDC |
+| Escrow | 0 | 0 | 1 Low & 2 Gas | Link | 137 | 23.09 USDC |
+| Beedle | 5 | 1 | 2 Low & 11 Gas | Link | 41 | 93.38 USDC |
+| Sparkn | 0 | 2 | 3 Low | Link | 31 | 76.96 USDC |
+| Ditto | 0 | 0 | 2 Low | Link | 54 | 39.02 USDC |
+| Beanstalk Part 1 | 0 | 1 | - | Link | 🥉 | 18,274.25 USDC |
+| Beanstalk Part 2 | 0 | 0 | 1 low | Link | 10th | 102.97 USDC |
+
 
 ## <span style="color:white">Judging</span> 
 | Contest	| Leaderboard	| Payout |
@@ -59,8 +62,16 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | First Flight #8: Math Master  | Solo Judge | Pro bono |
 | MorpheusAI  | Solo Judge | Confidential |
 | First Flight #9: Soulmate  | Community Judging Beta Tester  | Pro bono |
+| First Flight #10: OneShot  | Solo Judge  | Pro bono |
+| Moonwell  | Community Judging | 300 USDC |
+| First Flight #11: Snek-Raffle  | Solo Judge  | Pro bono |
+| First Flight #12: Kitty Connect | Solo Judge  | Pro bono |
+| Beanstalk Part 2  | Community Judging | 700 USDC |
+| First Flight #14: AirDropper | Solo Judge  | Pro bono |
+| Beanstalk: Dive Into Basin  | Community Judging | 200 USDC |
+| First Flight #15: Mondrian Wallet | Solo Judge  | Pro bono |
 
-First Flight #9: Soulmate
+
 # <span style="color:white">Secureum RACE results</span>
 
 | RACE | Leaderboard | Score |
