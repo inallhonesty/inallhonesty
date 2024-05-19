@@ -15,6 +15,13 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |30|7|0|6|1|10|22|
 
+# Private Audits
+| Client | Period | Report|
+|:---|:---:|:---:|
+| Proportionalized | 24.04 - 26.04.2024 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Proportionalized%20Audit%20Report.pdf) |
+
+
+
 # <span style="color:white">Sherlock</span> ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
 
 ## <span style="color:white">Audit</span>
