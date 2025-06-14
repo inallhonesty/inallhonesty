@@ -97,9 +97,9 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | ZKsync Era | Lead Judge  | Confidential |
 | Alchemix Transmuter | Lead Judge  | Confidential |
 | Zaros Part 2 | Lead Judge  | Confidential |
-| RAAC Core Contracts | Lead Judge  | Confidential | 6685 submissions, current World Record
+| RAAC Core Contracts* | Lead Judge  | Confidential | 
 
-
+*A total of 6685 submissions, current World Record, judged it alone in 3.5 months
 
 # <span style="color:white">Secureum RACE results</span>
 
