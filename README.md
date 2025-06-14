@@ -9,16 +9,12 @@ Discord: inallhonesty_
 Twitter: [@0xInAllHonesty](https://twitter.com/0xInAllHonesty)  
 Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
-# <span style="color:white">Overall statistics</span>
-
-| High	| Unique High	| Medium	| Unique Medium | Total audit projects | Total judging projects |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|7|0|6|1|10|22|
 
 # Private Audits
 | Client | Period | Report|
 |:---|:---:|:---:|
 | Proportionalized | 24.04 - 26.04.2024 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Proportionalized%20Audit%20Report.pdf) |
+| Proportionalized | 10.06 - 14.06.2024 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Proportionalized_v2_report.pdf) |
 
 
 
@@ -40,8 +36,6 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Avail | 16/56 | 10.29 USDC |
 | Mento | 11/37 | 30.01 USDC |
 | Flat Money Fix Review | 8/33 | 11.88 USDC |
-
-
 
 
 
@@ -69,22 +63,42 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 
 ## <span style="color:white">Judging</span> 
-| Contest	| Leaderboard	| Payout |
+| Contest	| Leaderboard	| Payout |https://codehawks.cyfrin.io/c/2024-09-mystery-box
 |:---|:---:|---:|
-| First Flight #1: PasswordStore | Solo Judge | Pro bono |
-| First Flight #5: Santa's List | Solo Judge | Pro bono |
-| First Flight #7: Horse Store | Solo Judge | Pro bono |
-| First Flight #8: Math Master  | Solo Judge | Pro bono |
-| MorpheusAI  | Solo Judge | Confidential |
+| First Flight #1: PasswordStore | Lead Judge | Pro bono |
+| First Flight #5: Santa's List | Lead Judge | Pro bono |
+| First Flight #7: Horse Store | Lead Judge | Pro bono |
+| First Flight #8: Math Master  | Lead Judge | Pro bono |
+| MorpheusAI  | Lead Judge | Confidential |
 | First Flight #9: Soulmate  | Community Judging Beta Tester  | Pro bono |
-| First Flight #10: OneShot  | Solo Judge  | Pro bono |
-| Moonwell  | 🥈 | 300 USDC |
-| First Flight #11: Snek-Raffle  | Solo Judge  | Pro bono |
-| First Flight #12: Kitty Connect | Solo Judge  | Pro bono |
-| Beanstalk Part 2  | 🥈 | 700 USDC |
-| First Flight #14: AirDropper | Solo Judge  | Pro bono |
-| Beanstalk: Dive Into Basin  | 4th | 200 USDC |
-| First Flight #15: Mondrian Wallet | Solo Judge  | Pro bono |
+| First Flight #10: OneShot  | Lead Judge  | Pro bono |
+| Moonwell  | Community Judging Participant | 🥈 | 300 USDC |
+| First Flight #11: Snek-Raffle  | Lead Judge  | Pro bono |
+| First Flight #12: Kitty Connect | Lead Judge  | Pro bono |
+| Beanstalk Part 2  | Community Judging Participant | 🥈 | 700 USDC |
+| First Flight #14: AirDropper | Lead Judge  | Pro bono |
+| Beanstalk: Dive Into Basin  | Community Judging Participant | 4th | 200 USDC |
+| First Flight #15: Mondrian Wallet | Lead Judge  | Pro bono |
+| Sablier | Lead Judge  | Confidential |
+| TSender | Lead Judge  | Confidential |
+| First Flight #18: T-Swap | Lead Judge  | Pro bono |
+| Beanstalk: The Finale | Lead Judge  | Confidential |
+| TempleGold | Lead Judge  | Confidential |
+| Zaros Part 1 | Lead Judge  | Confidential |
+| First Flight #22: Steaking | Lead Judge  | Pro bono |
+| Fjord Token Staking | Lead Judge  | Confidential |
+| TSender | Lead Judge  | Confidential |
+| First Flight #24: President Elector | Lead Judge  | Pro bono |
+| First Flight #25: Mystery Box | Lead Judge  | Pro bono |
+| StakeLink Liquid Staking | Lead Judge  | Confidential |
+| Sablier Flow | Lead Judge  | Confidential |
+| Swan Dria | Lead Judge  | Confidential |
+| First Flight #29:TwentyOne | Lead Judge  | Pro bono |
+| ZKsync Era | Lead Judge  | Confidential |
+| Alchemix Transmuter | Lead Judge  | Confidential |
+| Zaros Part 2 | Lead Judge  | Confidential |
+| RAAC Core Contracts | Lead Judge  | Confidential | 6685 submissions, current World Record
+
 
 
 # <span style="color:white">Secureum RACE results</span>
