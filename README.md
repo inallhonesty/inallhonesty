@@ -63,7 +63,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 
 ## <span style="color:white">Judging</span> 
-| Contest	| Leaderboard	| Payout |https://codehawks.cyfrin.io/c/2024-09-mystery-box
+| Contest	| Leaderboard	| Payout |
 |:---|:---:|---:|
 | First Flight #1: PasswordStore | Lead Judge | Pro bono |
 | First Flight #5: Santa's List | Lead Judge | Pro bono |
