@@ -38,7 +38,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 | Contest |	High |	Medium |  Others | Leaderboard	| Payout |
 |:---|:---:|:---:|:---:|:---:|---:|
-| Curves | 1 | 0 | N/A | N/A | 215/284 | 0.58 USDC :smiley: |
+| Curves | 1 | 0 | N/A | 215/284 | 0.58 USDC :smiley: |
 | WildCat | 1 | 1 | Grade B QA Report & Grade B Analysis | 13/125 | 538.68 USDC |
 | Verwa | 0 | 0 | Grade A QA Report | N/A | 9.82 USDC |
 | Revert Lend | 0 | 0 | Grade A Gas Report | N/A | 269.18 USDC |
