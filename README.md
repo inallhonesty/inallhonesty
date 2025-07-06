@@ -109,5 +109,5 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | RACE-21 | 24 out of 208 | 4.4/8 |
 | RACE-22 | 15 out of 175 | 5.0/8 |
 | RACE-27 | 37 out of 140 | 3.9/8 |
+| RACE-42 | 5 out of 49 | 6.3/8 |
 
-Looking forward to that top 10 :rocket:
