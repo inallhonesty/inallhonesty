@@ -36,12 +36,12 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 # <img width="174" alt="code4rena" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/d90c4afc-5777-4efe-9971-035ff978c6cb">
 
-| Contest |	High |	Medium |  Others | Security report	| Leaderboard	| Payout |
-|:---|:---:|:---:|:---:|:---:|:---:|---:|
+| Contest |	High |	Medium |  Others | Leaderboard	| Payout |
+|:---|:---:|:---:|:---:|:---:|---:|
 | Curves | 1 | 0 | N/A | N/A | 215/284 | 0.58 USDC :smiley: |
-| WildCat | 1 | 1 | Grade B QA Report & Grade B Analysis | Link | 13/125 | 538.68 USDC |
-| Verwa | 0 | 0 | Grade A QA Report | Link | N/A | 9.82 USDC |
-| Revert Lend | 0 | 0 | Grade A Gas Report | Link | N/A | 269.18 USDC |
+| WildCat | 1 | 1 | Grade B QA Report & Grade B Analysis | 13/125 | 538.68 USDC |
+| Verwa | 0 | 0 | Grade A QA Report | N/A | 9.82 USDC |
+| Revert Lend | 0 | 0 | Grade A Gas Report | N/A | 269.18 USDC |
 
 # <img width="174" alt="CodeHawks" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/b7c41029-61e7-4320-8fc7-54bb73199cf6">
 
