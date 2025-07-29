@@ -12,7 +12,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 # Private Audits
 | Client | Period | Report| Mode|
-|:---|:---:|:---:|:---:|
+|:---|:---:|:---:|---:|
 | Proportionalized | 24.04 - 26.04.2024 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Proportionalized%20Audit%20Report.pdf) | Solo audit |
 | Proportionalized | 10.06 - 14.06.2024 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Proportionalized_v2_report.pdf) | Solo audit |
 
