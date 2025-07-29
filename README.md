@@ -67,12 +67,12 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | MorpheusAI  | Lead Judge | Confidential |
 | First Flight #9: Soulmate  | Community Judging Beta Tester  | Pro bono |
 | First Flight #10: OneShot  | Lead Judge  | Pro bono |
-| Moonwell  | Community Judging Participant | 🥈 | 300 USDC |
+| Moonwell  | Community Judging Participant | 🥈 - 300 USDC | 
 | First Flight #11: Snek-Raffle  | Lead Judge  | Pro bono |
 | First Flight #12: Kitty Connect | Lead Judge  | Pro bono |
-| Beanstalk Part 2  | Community Judging Participant | 🥈 | 700 USDC |
+| Beanstalk Part 2  | Community Judging Participant | 🥈 - 700 USDC |
 | First Flight #14: AirDropper | Lead Judge  | Pro bono |
-| Beanstalk: Dive Into Basin  | Community Judging Participant | 4th | 200 USDC |
+| Beanstalk: Dive Into Basin  | Community Judging Participant | 4th - 200 USDC|
 | First Flight #15: Mondrian Wallet | Lead Judge  | Pro bono |
 | Sablier | Lead Judge  | Confidential |
 | TSender | Lead Judge  | Confidential |
