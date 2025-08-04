@@ -88,7 +88,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | StakeLink Liquid Staking | Lead Judge  | Confidential |
 | Sablier Flow | Lead Judge  | Confidential |
 | Swan Dria | Lead Judge  | Confidential |
-| First Flight #29:TwentyOne | Lead Judge  | Pro bono |
+| First Flight #29: TwentyOne | Lead Judge  | Pro bono |
 | ZKsync Era | Lead Judge  | Confidential |
 | Alchemix Transmuter | Lead Judge  | Confidential |
 | Zaros Part 2 | Lead Judge  | Confidential |
