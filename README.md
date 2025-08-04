@@ -93,6 +93,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Alchemix Transmuter | Lead Judge  | Confidential |
 | Zaros Part 2 | Lead Judge  | Confidential |
 | RAAC Core Contracts* | Lead Judge  | Confidential | 
+| First Flight #44:Beatland Festival | Lead Judge  | Pro bono |
 
 *A total of 6685 submissions, current World Record, judged it alone in 3.5 months
 
