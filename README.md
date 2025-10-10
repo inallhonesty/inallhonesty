@@ -17,6 +17,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Proportionalized | June 2024 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Proportionalized_v2_report.pdf) | Solo audit |
 | Myriad Prediction Market | July 2025 | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-25-cyfrin-myriad-v2.0.pdf) | Part of [Cyfrin](https://www.cyfrin.io/)'s team |
 | Stake.Link Token Vesting | July - August 2025 | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-08-02-cyfrin-stakelink-vesting-v2.0.pdf) | Part of [Cyfrin](https://www.cyfrin.io/)'s team |
+| Adi Zksync Wallet | August - September 2025 | To be made public | Part of [Dowsers](https://www.dowsers.finance/)'s team |
 | Withdrawable OFT Adapter | September 2025 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Withdrawable%20OFT%20Adapter%20Audit%20Report%20Sep%202025.pdf) | Solo audit |
 
 
