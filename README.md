@@ -21,7 +21,6 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Withdrawable OFT Adapter | September 2025 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Withdrawable%20OFT%20Adapter%20Audit%20Report%20Sep%202025.pdf) | Solo audit |
 | Strata Tranches | September 2025 | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf) | Part of [Cyfrin](https://www.cyfrin.io/)'s team |
 
-https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf
 
 # <span style="color:white">Sherlock</span> ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
 
