@@ -43,10 +43,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 | Contest |	High |	Medium |  Others | Leaderboard	| Payout |
 |:---|:---:|:---:|:---:|:---:|---:|
-| Curves | 1 | 0 | N/A | 215/284 | 0.58 USDC :smiley: |
 | WildCat | 1 | 1 | Grade B QA Report & Grade B Analysis | 13/125 | 538.68 USDC |
-| Verwa | 0 | 0 | Grade A QA Report | N/A | 9.82 USDC |
-| Revert Lend | 0 | 0 | Grade A Gas Report | N/A | 269.18 USDC |
 
 # <img width="174" alt="CodeHawks" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/b7c41029-61e7-4320-8fc7-54bb73199cf6">
 
@@ -54,10 +51,8 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 
 | Contest |	High |	Medium | Others | Security report	| Leaderboard	| Payout |
 |:---|:---:|:---:|:---:|:---:|:---:|---:|
-| Escrow | 0 | 0 | 1 Low & 2 Gas | Link | 137 | 23.09 USDC |
 | Beedle | 5 | 1 | 2 Low & 11 Gas | Link | 41 | 93.38 USDC |
 | Sparkn | 0 | 2 | 3 Low | Link | 31 | 76.96 USDC |
-| Ditto | 0 | 0 | 2 Low | Link | 54 | 39.02 USDC |
 | Beanstalk Part 1 | 0 | 1 | - | Link | 🥉 | 18,274.25 USDC |
 | Beanstalk Part 2 | 0 | 0 | 1 low | Link | 10 | 102.97 USDC |
 
