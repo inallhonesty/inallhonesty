@@ -20,84 +20,70 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Adi Zksync Wallet | August - September 2025 | To be made public | Part of [Dowsers](https://www.dowsers.finance/)'s team |
 | Withdrawable OFT Adapter | September 2025 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Withdrawable%20OFT%20Adapter%20Audit%20Report%20Sep%202025.pdf) | Solo audit |
 | Strata Tranches | September 2025 | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf) | Part of [Cyfrin](https://www.cyfrin.io/)'s team |
-| Confidential - RWA Stablecoin Staking | October 2025 | [Link](https://x.com/DevDacian/status/1985293376112210302) | Part of [Cyfrin](https://www.cyfrin.io/)'s team |
+|  - RWA Stablecoin Staking | October 2025 | [Link](https://x.com/DevDacian/status/1985293376112210302) | Part of [Cyfrin](https://www.cyfrin.io/)'s team |
 
 
-# <span style="color:white">Sherlock</span> ![sherlock](https://github.com/inallhonesty/inallhonesty/assets/95440897/bb1b2a76-3e45-4738-8135-6b4985b46c85)
-
-## <span style="color:white">Judging</span> 
-| Contest	| Leaderboard	| Payout |
-|:---|:---:|---:|
-| Dinari | 8/61 | 38.02 USDC |
-| Beam | 19/117 | 2.96 USDC |
-| Symmetrical Update | 3/35 | 159.47 USDC |
-| LooksRare | 11/65 | 45.50 USDC |
-| SYMM IO | 9/83 | 23.43 USDC |
-| Avail | 16/56 | 10.29 USDC |
-| Mento | 11/37 | 30.01 USDC |
-| Flat Money Fix Review | 8/33 | 11.88 USDC |
+# Public Audits
+| Platform | Protocol | Findings | Comments |
+|:---:|:---:|:---:|:---:|
+| Cantina | VII Finance | 2H | |
+| Immunefi | Alchemix V3 | 2M | |
+| CodeHawks | Beanstalk Part 2 | 1L ||
+| CodeHawks | Beanstalk Part 1 | 1M ||
+| CodeHawks | Aave DIVA Wrapper | 1L ||
+| CodeHawks | Sparkn | 2M 3L | |
+| CodeHawks | Beedle  | 5h 1M 2L 11Gas ||
+| Code4rena | WildCat | 1H 1M | Grade B QA Report & Grade B Analysis |
 
 
-
-# <img width="174" alt="code4rena" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/d90c4afc-5777-4efe-9971-035ff978c6cb">
-
-| Contest |	High |	Medium |  Others | Leaderboard	| Payout |
-|:---|:---:|:---:|:---:|:---:|---:|
-| WildCat | 1 | 1 | Grade B QA Report & Grade B Analysis | 13/125 | 538.68 USDC |
-
-# <img width="174" alt="CodeHawks" src="https://github.com/inallhonesty/inallhonesty/assets/95440897/b7c41029-61e7-4320-8fc7-54bb73199cf6">
-
-## <span style="color:white">Audit</span>
-
-| Contest |	High |	Medium | Others | Security report	| Leaderboard	| Payout |
-|:---|:---:|:---:|:---:|:---:|:---:|---:|
-| Beedle | 5 | 1 | 2 Low & 11 Gas | Link | 41 | 93.38 USDC |
-| Sparkn | 0 | 2 | 3 Low | Link | 31 | 76.96 USDC |
-| Beanstalk Part 1 | 0 | 1 | - | Link | 🥉 | 18,274.25 USDC |
-| Beanstalk Part 2 | 0 | 0 | 1 low | Link | 10 | 102.97 USDC |
-
-
-## <span style="color:white">Judging</span> 
-| Contest	| Leaderboard	| Payout |
-|:---|:---:|---:|
-| First Flight #1: PasswordStore | Lead Judge | Pro bono |
-| First Flight #5: Santa's List | Lead Judge | Pro bono |
-| First Flight #7: Horse Store | Lead Judge | Pro bono |
-| First Flight #8: Math Master  | Lead Judge | Pro bono |
-| MorpheusAI  | Lead Judge | Confidential |
-| First Flight #9: Soulmate  | Community Judging Beta Tester  | Pro bono |
-| First Flight #10: OneShot  | Lead Judge  | Pro bono |
-| Moonwell  | Community Judging Participant | 🥈 - 300 USDC | 
-| First Flight #11: Snek-Raffle  | Lead Judge  | Pro bono |
-| First Flight #12: Kitty Connect | Lead Judge  | Pro bono |
-| Beanstalk Part 2  | Community Judging Participant | 🥈 - 700 USDC |
-| First Flight #14: AirDropper | Lead Judge  | Pro bono |
-| Beanstalk: Dive Into Basin  | Community Judging Participant | 4th - 200 USDC|
-| First Flight #15: Mondrian Wallet | Lead Judge  | Pro bono |
-| Sablier | Lead Judge  | Confidential |
-| TSender | Lead Judge  | Confidential |
-| First Flight #18: T-Swap | Lead Judge  | Pro bono |
-| Beanstalk: The Finale | Lead Judge  | Confidential |
-| TempleGold | Lead Judge  | Confidential |
-| Zaros Part 1 | Lead Judge  | Confidential |
-| First Flight #22: Steaking | Lead Judge  | Pro bono |
-| Fjord Token Staking | Lead Judge  | Confidential |
-| TSender | Lead Judge  | Confidential |
-| First Flight #24: President Elector | Lead Judge  | Pro bono |
-| First Flight #25: Mystery Box | Lead Judge  | Pro bono |
-| StakeLink Liquid Staking | Lead Judge  | Confidential |
-| Sablier Flow | Lead Judge  | Confidential |
-| Swan Dria | Lead Judge  | Confidential |
-| First Flight #29: TwentyOne | Lead Judge  | Pro bono |
-| ZKsync Era | Lead Judge  | Confidential |
-| Alchemix Transmuter | Lead Judge  | Confidential |
-| Zaros Part 2 | Lead Judge  | Confidential |
-| RAAC Core Contracts* | Lead Judge  | Confidential | 
-| First Flight #44: Beatland Festival | Lead Judge  | Pro bono |
-| First Flight #45: Last Man Standing | Lead Judge  | Pro bono |
-| First Flight #50: Raisebox Faucet | Lead Judge  | Pro bono |
-
-*A total of 6685 submissions, current World Record, judged it alone in 3.5 months
+# Judging 
+| Platform	| Protocol	| Rank | Comments |
+|:---:|:---:|:---:|:---:|
+| Sherlock | Dinari | 8/61 | Public Judging |
+| Sherlock | Beam | 19/117 | Public Judging |
+| Sherlock | Symmetrical Update | 3/35 | Public Judging |
+| Sherlock | LooksRare | 11/65 | Public Judging |
+| Sherlock | SYMM IO | 9/83 | Public Judging |
+| Sherlock | Avail | 16/56 | Public Judging |
+| Sherlock | Mento | 11/37 | Public Judging |
+| Sherlock | Flat Money Fix Review | 8/33 | Public Judging |
+| CodeHawks | First Flight #1: PasswordStore | Lead Judge | Pro bono |
+| CodeHawks | First Flight #5: Santa's List | Lead Judge | Pro bono |
+| CodeHawks | First Flight #7: Horse Store | Lead Judge | Pro bono |
+| CodeHawks | First Flight #8: Math Master  | Lead Judge | Pro bono |
+| CodeHawks | MorpheusAI  | Lead Judge ||
+| CodeHawks | First Flight #9: Soulmate  | Community Judging Beta Tester  | Pro bono |
+| CodeHawks | First Flight #10: OneShot  | Lead Judge  | Pro bono |
+| CodeHawks | Moonwell  | 2/15 | Community Judging | 
+| CodeHawks | First Flight #11: Snek-Raffle  | Lead Judge  | Pro bono |
+| CodeHawks | First Flight #12: Kitty Connect | Lead Judge  | Pro bono |
+| CodeHawks | Beanstalk Part 2  | 2/23 | Community Judging |
+| CodeHawks | First Flight #14: AirDropper | Lead Judge  | Pro bono |
+| CodeHawks | Beanstalk: Dive Into Basin  | 4/16 | Community Judging |
+| CodeHawks | Beanstalk Part 3  | 8/14 | Community Judging|
+| CodeHawks | First Flight #15: Mondrian Wallet | Lead Judge  | Pro bono |
+| CodeHawks | Sablier | Lead Judge  |  |
+| CodeHawks | TSender | Lead Judge  |  |
+| CodeHawks | First Flight #18: T-Swap | Lead Judge  | Pro bono |
+| CodeHawks | Beanstalk: The Finale | Lead Judge  |  |
+| CodeHawks | TempleGold | Lead Judge  |  |
+| CodeHawks | Zaros Part 1 | Lead Judge  |  |
+| CodeHawks | First Flight #22: Steaking | Lead Judge  | Pro bono |
+| CodeHawks | Fjord Token Staking | Lead Judge  |  |
+| CodeHawks | TSender | Lead Judge  |  |
+| CodeHawks | First Flight #24: President Elector | Lead Judge  | Pro bono |
+| CodeHawks | First Flight #25: Mystery Box | Lead Judge  | Pro bono |
+| CodeHawks | StakeLink Liquid Staking | Lead Judge  |  |
+| CodeHawks | Sablier Flow | Lead Judge  |  |
+| CodeHawks | Swan Dria | Lead Judge  |  |
+| CodeHawks | First Flight #29: TwentyOne | Lead Judge  | Pro bono |
+| CodeHawks | ZKsync Era | Lead Judge  |  |
+| CodeHawks | Alchemix Transmuter | Lead Judge  |  |
+| CodeHawks | Zaros Part 2 | Lead Judge  |  |
+| CodeHawks | RAAC Core Contracts* | Lead Judge  | A total of 6685 submissions, current World Record, judged it alone in 3.5 months | 
+| CodeHawks | First Flight #44: Beatland Festival | Lead Judge  | Pro bono |
+| CodeHawks | First Flight #45: Last Man Standing | Lead Judge  | Pro bono |
+| CodeHawks | First Flight #50: Raisebox Faucet | Lead Judge  | Pro bono |
 
 # <span style="color:white">Secureum RACE results</span>
 
