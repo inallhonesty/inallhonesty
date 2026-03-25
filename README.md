@@ -32,7 +32,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | CodeHawks | Beanstalk Part 1 | 1M ||
 | CodeHawks | Aave DIVA Wrapper | 1L ||
 | CodeHawks | Sparkn | 2M 3L | |
-| CodeHawks | Beedle  | 5h 1M 2L 11Gas ||
+| CodeHawks | Beedle  | 5H 1M 2L 11Gas ||
 | Code4rena | WildCat | 1H 1M | Grade B QA Report & Grade B Analysis |
 
 
