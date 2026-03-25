@@ -20,7 +20,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 | Adi Zksync Wallet | August - September 2025 | To be made public | Part of [Dowsers](https://www.dowsers.finance/)'s team |
 | Withdrawable OFT Adapter | September 2025 | [Link](https://github.com/inallhonesty/private_audits/blob/main/Reports/Withdrawable%20OFT%20Adapter%20Audit%20Report%20Sep%202025.pdf) | Solo audit |
 | Strata Tranches | September 2025 | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf) | Part of [Cyfrin](https://www.cyfrin.io/)'s team |
-|  - RWA Stablecoin Staking | October 2025 | [Link](https://x.com/DevDacian/status/1985293376112210302) | Part of [Cyfrin](https://www.cyfrin.io/)'s team |
+| RWA Stablecoin Staking | October 2025 | [Link](https://x.com/DevDacian/status/1985293376112210302) | Part of [Cyfrin](https://www.cyfrin.io/)'s team |
 
 
 # Public Audits
