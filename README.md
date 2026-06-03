@@ -26,6 +26,7 @@ Gmail: [inallhonesty92@gmail.com](mailto:inallhonesty92@gmail.com)
 # Public Audits
 | Platform | Protocol | Findings | Comments |
 |:---:|:---:|:---:|:---:|
+| Cantina | Revert Finance | 1M | Rank 2/727 |
 | Cantina | VII Finance | 2H | |
 | Immunefi | Alchemix V3 | 2M | |
 | CodeHawks | Beanstalk Part 2 | 1L ||
